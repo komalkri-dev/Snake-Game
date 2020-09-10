@@ -1,9 +1,10 @@
-# Snake-game
+### Snake-game
 
 A turtle implemented snake-game.
-How to run:
+
+### How to Run
 >python main.py
 
 # Snap
 
-<img src="demo.png" alt="Snake-game-Screenshot" width="600" height="500">
+<img src="demo.png" alt="Snake-game-Screenshot">
