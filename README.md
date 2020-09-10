@@ -7,4 +7,4 @@ A turtle implemented snake-game.
 
 ### Snap
 
-<img src="demo.PNG" alt="Snake-game-Screenshot" height="200" width="300" >
+<img src="demo.PNG" alt="Snake-game-Screenshot" height="500" width="600" >
