@@ -1,1 +1,1 @@
-web: gunicorn Snake-Game.wsgi
+web: python main.py
